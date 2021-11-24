@@ -1,13 +1,19 @@
-# README
-## This is the README for your extension "blah"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Blah :sheep:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Fined tune Dark theme for Visual studio code! :star:
+Color balanced from the Dark version for easy viewing in daylight.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![main](images/readme-main-cropped.png)
+![sidebar](images/readme-active-sidebar.png)
+![react](images/readme-react.png)
+![react-native](images/readme-react-native.png)
 
-**Enjoy!**
+## Installation
+
+1.  Install [Visual Studio Code](https://code.visualstudio.com/)
+2.  Launch Visual Studio Code
+3.  Choose **Extensions** from menu
+4.  Search for `blah`
+5.  Click **Install** to install it
+6.  Click **Reload** to reload the Code
+7.  From the menu bar click: Code > Preferences > Color Theme > **Blah Dark**
