@@ -1,0 +1,38 @@
+{
+  "name": "blah",
+  "displayName": "Blah",
+  "description": "Blah Dark theme for Visual Studio Code",
+  "publisher": "amila",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/SNelusha/dark-dust-vscode-theme",
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "blah",
+    "blah dark",
+    "dark",
+    "dark theme",
+    "dark dust",
+    "vscode theme",
+    "vscode dark theme"
+],
+"repository": {
+    "type": "git",
+    "url": "https://github.com/SNelusha/dark-dust-vscode-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Dust Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-dust-pro.json"
+      }
+    ]
+  },
+  "icon": "images/icon.png"
+}
