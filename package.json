@@ -30,7 +30,7 @@
       {
         "label": "Blah Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/blah.dark.json"
+        "path": "./themes/blah-dark.json"
       }
     ]
   },
