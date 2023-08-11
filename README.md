@@ -1,4 +1,4 @@
-# Blah 3.0 🐑
+# Blah 2.0 🐑
 
 ![main](images/main.png?raw=true)
 
