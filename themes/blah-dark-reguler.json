@@ -4,7 +4,7 @@
   "semanticHighlighting": false,
   "colors": {
     "contrastBorder": "#122d42",
-    "focusBorder": "#122d42",
+    "focusBorder": "#48F725",
     "foreground": "#d6deeb",
     "widget.shadow": "#011627",
     "selection.background": "#4373c2",
@@ -33,7 +33,7 @@
     "scrollbarSlider.hoverBackground": "#084d8180",
     "badge.background": "#5f7e97",
     "badge.foreground": "#ffffff",
-    "progress.background": "#7e57c2",
+    "progress.background": "#48F725",
     "breadcrumb.foreground": "#A599E9",
     "breadcrumb.focusForeground": "#ffffff",
     "breadcrumb.activeSelectionForeground": "#FFFFFF",

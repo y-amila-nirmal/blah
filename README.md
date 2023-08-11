@@ -1,10 +1,23 @@
-# Blah 🐑
+# Blah 3.0 🐑
 
-Fined tune Dark theme for Visual studio code! :star:
-Color balanced from the Dark version for easy viewing in daylight.
+![main](images/main.png?raw=true)
 
-![main](images/readme-main-cropped.png?raw=true)
-![sidebar](images/readme-active-sidebar.png?raw=true)
+Blah Dark Reguler theme had Color balance from the Dark version for easy viewing in daylight.
+
+### Blah Dark Reguler
+
+![main](images/blah-dark-reguler1.png?raw=true)
+![sidebar](images/blah-dark-reguler2.png?raw=true)
+
+Blah Dark Leafy theme had Made for you, lovers of green color.
+
+### Blah Dark Leafy
+
+![main](images/blah-dark-leafy1.png?raw=true)
+![sidebar](images/blah-dark-leafy2.png?raw=true)
+
+### We Have Colorized Your Code Lines
+
 ![react](images/readme-react.png?raw=true)
 ![react-native](images/readme-react-native.png?raw=true)
 
@@ -16,4 +29,6 @@ Color balanced from the Dark version for easy viewing in daylight.
 4.  Search for `blah`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
-7.  From the menu bar click: Code > Preferences > Color Theme > **Blah Dark**
+7.  From the menu bar click: Code > Preferences > Color Theme > **Blah Dark Cobalt** or **Blah Dark Leafy**
+
+[If you have issues, please comment there.](https://github.com/Y-AmilaNirmal/blah/issues)

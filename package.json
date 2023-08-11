@@ -2,8 +2,8 @@
   "name": "blah",
   "displayName": "Blah",
   "description": "Blah Dark theme for Visual Studio Code",
-  "publisher": "amila",
-  "version": "1.0.2",
+  "publisher": "Amila_Nirmal",
+  "version": "3.0.0",
   "license": "MIT",
   "homepage": "https://github.com/Y-AmilaNirmal/blah.git",
   "engines": {
@@ -19,18 +19,32 @@
     "dark theme",
     "dark dust",
     "vscode theme",
-    "vscode dark theme"
+    "vscode dark theme",
+    "themes",
+    "theme"
 ],
-"repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/Y-AmilaNirmal/blah.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Y-AmilaNirmal/blah/issues"
+  },
+  "galleryBanner": {
+    "color": "#151228",
+    "theme": "dark"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Blah Dark",
+        "label": "Blah Dark Reguler",
         "uiTheme": "vs-dark",
-        "path": "./themes/blah-dark.json"
+        "path": "./themes/blah-dark-reguler.json"
+      },
+      {
+        "label": "Blah Dark Leafy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blah-dark-leafy.json"
       }
     ]
   },
