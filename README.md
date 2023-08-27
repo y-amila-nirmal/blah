@@ -16,6 +16,8 @@ Blah Dark Leafy theme had Made for you, lovers of green color.
 ![main](images/blah-dark-leafy2.png?raw=true)
 ![sidebar](images/blah-dark-leafy1.png?raw=true)
 
+Blah Dark Moon Night theme had Made for you, lovers of deep deep darkers.
+
 ### Blah Dark Moon Night
 
 ![main](images/blah-dark-moon-night2.png?raw=true)
